@@ -1,8 +1,8 @@
 source ./pre.sh
 
-# echo "========================"
-# echo "Setup My Linux Installer"
-# echo "========================"
+echo "========================"
+echo "Setup My Linux Installer"
+echo "========================"
 # echo "Available options:"
 # echo "- latest"
 # echo "- node"
