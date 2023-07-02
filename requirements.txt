@@ -5,3 +5,4 @@ gnupg
 lsb-release
 apt-transport-https
 software-properties-common
+openssh-server postfix tzdata perl
