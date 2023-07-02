@@ -4,6 +4,13 @@ alias order='sudo apt install -y'
 alias latest='sudo apt update -y && sudo apt upgrade -y && sudo dist-upgrade -y && sudo aptremove -y && sudo apt autoclean -y'
 
 source ./packages/node.sh
+source ./packages/go.sh
+source ./packages/php.sh
+source ./packages/python.sh
+source ./packages/docker.sh
+source ./packages/dev.sh
+source ./packages/gitlab.sh
+
 
 pre_setup(){
 

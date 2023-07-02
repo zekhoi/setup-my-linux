@@ -36,6 +36,9 @@ case $1 in
     "dev")
         setup_dev
         ;;
+    "gitlab")
+        setup_gitlab
+        ;;
     "all")
         setup_node
         setup_go
